@@ -6,6 +6,8 @@
 
 
 ## Git Commands - Bash
+
+### Creating a new branch
 - new branch -> git checkout -b test
 - status ?? -> git status
 - commit ?? -> git add -A
