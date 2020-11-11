@@ -14,11 +14,17 @@
 - Install node -> npm install node (Verify: node -v)
 - Install Json -> npm init -y
 - Install Next -> npm install next
+- Install Next -> npm install react
+- Install Next -> npm install react-dom
+
+or
+
+- Install Next -> npm install next react react-dom
 
 ## Commands developer framework
 - Começar -> npm run dev (criando um servidor web local:3000)
 
-## Ctrl + C -> para PARAR o servidor de desenvolvimento(local:3000) Para fazer o COMMIT no GIT
+## Ctrl + C ---> para PARAR o servidor de desenvolvimento(local:3000) para fazer o COMMIT no GIT
 
 ### Git -> Creating a new branch
 - creating a new branch -> git checkout -b NewBranch
