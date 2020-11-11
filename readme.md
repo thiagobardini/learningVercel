@@ -21,6 +21,20 @@ or
 
 - Install Next -> npm install next react react-dom
 
+## Alterar package.json
+Trocar 
+````
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+````
+Para
+`````
+  "scripts": {
+    "dev": "next dev"
+  },
+`````
+
 ## Commands developer framework
 - Começar -> npm run dev (criando um servidor web local:3000)
 
