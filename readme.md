@@ -21,12 +21,16 @@
 ### Git -> Creating a new branch
 - creating a new branch -> git checkout -b NewBranch
 - Mostra o que foi modificado -> git status
-- coloca todas as alteraçoes dentro do repositiorio git  -> git add -A -> git Add . (master branch)
+- enviar todas as alteracoes dentro do repositorios locais  -> git add -A -> git Add . (master branch)
 - commit -> git commit -m 'nova chamada na home'
 - push -> git push origin NewBranch
 -------------
-- coloca todas as alteraçoes dentro do repositiorio git -> git Add . 
 
-
+### Git -> Merge Branches
 - trocar branches -> git checkout test |ou main|
 - Checar qual a branch está em uso -> git branch
+
+- mergir branches -> git merge NewBranch
+- enviar todas as alteracoes dentro do repositorios locais -> git add .
+- git commit -m "testando merge"
+- git push origin main
