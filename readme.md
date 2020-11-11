@@ -6,7 +6,7 @@
 
 
 ## Git Commands - Bash
-
+test
 ### Creating a new branch
 - new branch -> git checkout -b test
 - status ?? -> git status
