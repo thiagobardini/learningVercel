@@ -40,10 +40,15 @@ Para
 
 ## Ctrl + C ---> para PARAR o servidor de desenvolvimento(local:3000) para fazer o COMMIT no GIT
 
+## Git -> Commit & Push
+- git add . -> chamando o arquivo master
+- git commit -m "adicionar tudo q está pendente" -> criar commit
+- git push -> push de todos os arquivos no repositorio.
+
 ### Git -> Creating a new branch
 - creating a new branch -> git checkout -b NewBranch
 - Mostra o que foi modificado -> git status
-- enviar todas as alteracoes dentro do repositorios locais  -> git add -A -> git Add . (master branch)
+- enviar todas as alteracoes dentro do repositorios locais  -> git add -A
 - commit -> git commit -m 'nova chamada na home'
 - push -> git push origin NewBranch
 -------------
