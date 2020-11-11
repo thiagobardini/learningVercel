@@ -19,11 +19,13 @@
 
 
 ### Git -> Creating a new branch
-- creating a new branch -> git checkout -b test
-- status ?? -> git status
-- commit ?? -> git add -A
+- creating a new branch -> git checkout -b NewBranch
+- Mostra o que foi modificado -> git status
+- coloca todas as alteraçoes dentro do repositiorio git  -> git add -A -> git Add . (master branch)
 - commit -> git commit -m 'nova chamada na home'
-- push -> git push origin test
+- push -> git push origin NewBranch
+-------------
+- coloca todas as alteraçoes dentro do repositiorio git -> git Add . 
 
 
 - trocar branches -> git checkout test |ou main|
