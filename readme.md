@@ -14,8 +14,8 @@
 - Install node -> npm install node (Verify: node -v)
 - Install Json -> npm init -y
 - Install Next -> npm install next
-- Install Next -> npm install react
-- Install Next -> npm install react-dom
+- Install React -> npm install react
+- Install React-Dom -> npm install react-dom
 
 or
 
