@@ -19,7 +19,7 @@
 
 or
 
-- Install Next -> npm install next react react-dom
+- Install all at same time -> npm install next react react-dom
 
 ## Alterar package.json
 Trocar 
